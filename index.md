@@ -86,4 +86,4 @@ shihoさん(外部参加者): 第1期生
 9. セキュリティ基礎(応用)
 
 ## お問い合わせ先
-[Bosyu](https://bosyu.me/b/4orsPT5xoNc)
+[Bosyu](https://bosyu.me/b/yIFlSEaBsWo)
