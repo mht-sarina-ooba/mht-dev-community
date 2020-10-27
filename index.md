@@ -15,7 +15,7 @@ ADS( ApplicationDevelopmentService )として常駐先で働きつつ、毎週�
 1. 勉強してスマホアプリが実装できるようになる
 　→ 目標: 3ヶ月でアプリリリースできる
 　→ リモート対応可能(使用ツール: Slack, zoom, GitHub)
-2. MHTがスマホアプリを開発できる社員を採用したい
+2. MHTがスマホアプリを開発できる社員を **採用** したい
 　→ 面談よりも、継続的なコミュニケーションをとって仲間を探したい
  
 ## 内容
@@ -42,27 +42,33 @@ Swift, Flutter
 
 #### ルール
  - 課題を実施する中で15分以上手が止まったら質問をしよう
-　→ 理由を記載: (プロの仕事の仕方)
+　→ プロの仕事の仕方です！MHTの社員は現場でやっている方法をコミュニティでも活用していきます
  - 進捗の共有をしよう
  - コミュニティの人とコミュニケーションをしながら、課題を前に進めよう
  
 ## メンバー
 大場(講師): [@MHTcode_Sally](https://twitter.com/MHTcode_Sally])  
 Swift・Flutterでアプリを開発しています。 #Flutter #Swift  
+
 千葉(講師): [@MHTcode_chibird](https://twitter.com/MHTcode_chibird)  
 最近はバックエンド側を触っていることが多いです！ #RubyonRails #vuejs #javascript #AWS #Firebase  
+
 図師(補佐): [@MHTcode_Rebecca](https://twitter.com/MHTcode_Rebecca)  
-自然体研究家 / 猫&BBQ好き / 無理はしない人生を送る / 最近はコード書いてません / #swift #kotlin #flutter #Dart #AWS #firebase #GCP  
+自然体研究家 / 猫&BBQ好き / 無理はしない人生を送る / 最近はコード書いてません / #swift #kotlin #flutter #Dart #AWS #firebase #GCP 
+
 加藤: [@MHTcode_hiro](https://twitter.com/MHTcode_hiro)  
 新潟出身　スマホアプリエンジニア 趣味はいっぱい食べること!  #iOS #Android #Kotlin   
+
 瀧: [@MHTcode_tarou](https://twitter.com/MHTcode_tarou)  
 2020年新卒入社で文系出身ですが気合で勉強中です！！( ͡° ͜ʖ ͡°)
+
 本間: [@MHTcode_andy](https://twitter.com/MHTcode_andy)  
 スマホアプリ開発をしたく、営業からの転身。趣味は戦略系ゲームとアクション映画鑑賞です！
-トムさん(外部参加者): comming soon...  
-iwashiさん(外部参加者): comming soon...  
-shihoさん(外部参加者): comming soon...  
-金子さん(外部参加者): comming soon...  
+
+トムさん(外部参加者): 第1期生 
+iwashiさん(外部参加者): 第1期生 
+shihoさん(外部参加者): 第1期生   
+金子さん(外部参加者): 第1期生   
 
 ## 簡単なアウトライン
 コミュニティメンバーの経験レベルによって変更の可能性はありますが、以下のように考えています。
