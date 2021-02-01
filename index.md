@@ -96,4 +96,4 @@ Swift・Flutterでアプリを開発しています。 #Flutter #Swift
 
 
 ## お問い合わせ先
-[Bosyu](https://bosyu.me/b/4orsPT5xoNc)
+[Bosyu](https://bosyu.me/b/wnCmU-XV1b4)
