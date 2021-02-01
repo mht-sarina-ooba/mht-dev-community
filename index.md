@@ -1,6 +1,7 @@
 # QueensTechLab
 
-<img width=“500” alt=“” src=“https://user-images.githubusercontent.com/51016056/105117606-1da6b100-5b10-11eb-8e96-006b6f63a166.png”>
+<img width="500" alt="img" src="https://user-images.githubusercontent.com/51016056/106406301-37cf8000-647c-11eb-8f9d-3485c2a05fa0.png">
+
 
 ## マンハッタンコードとは？
 スマートフォンアプリ開発に特化した会社です！
