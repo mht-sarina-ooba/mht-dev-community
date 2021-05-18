@@ -96,4 +96,5 @@ Swift・Flutterでアプリを開発しています。 #Flutter #Swift
 
 
 ## お問い合わせ先
-[TwitterのDMにてご連絡お待ちしております](https://twitter.com/MHTcode_Sally)
+TwitterのDMにてご連絡お待ちしております。
+[@MHTcode_Sally](https://twitter.com/MHTcode_Sally)
