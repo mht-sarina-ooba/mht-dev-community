@@ -97,4 +97,5 @@ Swift・Flutterでアプリを開発しています。 #Flutter #Swift
 
 ## お問い合わせ先
 以下コミュニティ担当者のTwitterDMにてご連絡お待ちしております。
+
 コミュニティ担当者: [@MHTcode_Sally](https://twitter.com/MHTcode_Sally)
