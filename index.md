@@ -82,9 +82,6 @@ Swift・Flutterでアプリを開発しています。 #Flutter #Swift
 図師(補佐): [@MHTcode_Rebecca](https://twitter.com/MHTcode_Rebecca)
 自然体研究家 / 猫&BBQ好き / 無理はしない人生を送る / 最近はコード書いてません / #swift #kotlin #flutter #Dart #AWS #firebase #GCP
 
-加藤: [@MHTcode_hiro](https://twitter.com/MHTcode_hiro)
-新潟出身　スマホアプリエンジニア 趣味はいっぱい食べること!  #iOS #Android #Kotlin
-
 瀧: [@MHTcode_tarou](https://twitter.com/MHTcode_tarou)
 2020年新卒入社で文系出身ですが気合で勉強中です！！( ͡° ͜ʖ ͡°)
 
